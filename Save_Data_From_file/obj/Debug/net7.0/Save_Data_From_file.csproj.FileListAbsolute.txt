@@ -1,0 +1,14 @@
+C:\Users\Deouk Panha\Desktop\C#\Save_Data_From_file\bin\Debug\net7.0\Save_Data_From_file.exe
+C:\Users\Deouk Panha\Desktop\C#\Save_Data_From_file\bin\Debug\net7.0\Save_Data_From_file.deps.json
+C:\Users\Deouk Panha\Desktop\C#\Save_Data_From_file\bin\Debug\net7.0\Save_Data_From_file.runtimeconfig.json
+C:\Users\Deouk Panha\Desktop\C#\Save_Data_From_file\bin\Debug\net7.0\Save_Data_From_file.dll
+C:\Users\Deouk Panha\Desktop\C#\Save_Data_From_file\bin\Debug\net7.0\Save_Data_From_file.pdb
+C:\Users\Deouk Panha\Desktop\C#\Save_Data_From_file\obj\Debug\net7.0\Save_Data_From_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deouk Panha\Desktop\C#\Save_Data_From_file\obj\Debug\net7.0\Save_Data_From_file.AssemblyInfoInputs.cache
+C:\Users\Deouk Panha\Desktop\C#\Save_Data_From_file\obj\Debug\net7.0\Save_Data_From_file.AssemblyInfo.cs
+C:\Users\Deouk Panha\Desktop\C#\Save_Data_From_file\obj\Debug\net7.0\Save_Data_From_file.csproj.CoreCompileInputs.cache
+C:\Users\Deouk Panha\Desktop\C#\Save_Data_From_file\obj\Debug\net7.0\Save_Data_From_file.dll
+C:\Users\Deouk Panha\Desktop\C#\Save_Data_From_file\obj\Debug\net7.0\refint\Save_Data_From_file.dll
+C:\Users\Deouk Panha\Desktop\C#\Save_Data_From_file\obj\Debug\net7.0\Save_Data_From_file.pdb
+C:\Users\Deouk Panha\Desktop\C#\Save_Data_From_file\obj\Debug\net7.0\Save_Data_From_file.genruntimeconfig.cache
+C:\Users\Deouk Panha\Desktop\C#\Save_Data_From_file\obj\Debug\net7.0\ref\Save_Data_From_file.dll

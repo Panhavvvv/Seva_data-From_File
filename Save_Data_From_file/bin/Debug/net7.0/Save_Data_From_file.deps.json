@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Save_Data_From_file/1.0.0": {
+        "runtime": {
+          "Save_Data_From_file.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Save_Data_From_file/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
